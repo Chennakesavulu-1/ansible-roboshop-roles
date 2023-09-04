@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.chennadevops.online
+USER_HOST: user.chennadevops.online
+SHIPPING_HOST: shipping.chennadevops.online
+CART_HOST: cart.chennadevops.online
+PAYMENT_HOST: payment.chennadevops.online
